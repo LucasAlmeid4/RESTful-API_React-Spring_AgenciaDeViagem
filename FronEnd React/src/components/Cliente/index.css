@@ -1,0 +1,31 @@
+.banner {
+  background-color: #1c0f30;
+  color: #f1c21b;
+  font-weight: 600;
+  margin: 3% 25% 3% 25%;
+  padding: 15px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+a {
+  color: rgb(255, 255, 255);
+}
+
+.cadastros{
+background-color: rgb(245, 243, 240);
+border-radius: 5px;
+width: 70%;
+}
+
+@media only screen and (max-width: 650px) and (min-width: 200px) {
+  .banner {
+  margin: 0;
+
+  }
+
+  .cadastros{
+    background-color: rgb(245, 243, 240);
+    width: 100%;
+    }
+}

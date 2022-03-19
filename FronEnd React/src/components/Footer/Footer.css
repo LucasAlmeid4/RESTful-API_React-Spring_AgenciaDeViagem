@@ -1,0 +1,10 @@
+footer a {
+    color: #394761;
+}
+
+footer a:hover {
+    text-decoration: salmon underline;
+
+}
+
+
